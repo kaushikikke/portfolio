@@ -59,9 +59,9 @@ function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8 }}
-          className="text-gray-400 text-sm md:text-base mb-6 leading-relaxed"
+          className="text-gray-200 text-sm md:text-base mb-6 leading-relaxed"
         >
-          A passionate problem-solver, using design and code to build scalable web applications.
+          Building scalable web apps with MERN stack & real-world problem solving.
         </motion.p>
 
         {/* Social Icons */}
