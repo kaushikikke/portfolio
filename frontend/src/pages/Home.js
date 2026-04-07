@@ -83,7 +83,7 @@ function Home() {
   className="flex flex-col md:flex-row justify-center gap-4"
 >
   <a
-    href="/resume.pdf"
+    href="/Kaushik_Ikke_Resume.pdf"
     download
     className="bg-blue-500 px-5 py-2 rounded-md hover:bg-blue-600 transition text-sm shadow-lg shadow-blue-500/30"
   >
@@ -91,7 +91,7 @@ function Home() {
   </a>
 
   <a
-    href="/resume.pdf"
+    href="/Kaushik_Ikke_Resume.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="bg-blue-500 px-5 py-2 rounded-md hover:bg-blue-600 transition text-sm shadow-lg shadow-blue-500/30"
