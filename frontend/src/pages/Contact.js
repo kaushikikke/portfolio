@@ -45,6 +45,13 @@ function Contact() {
           className="w-full p-3 mb-3 bg-transparent border border-gray-500 rounded"
         />
 
+        <input
+          type="email"
+          name="email"
+          placeholder="Your Email ID"
+          required
+          className="w-full p-3 mb-3 bg-transparent border border-gray-500 rounded"
+          />
         
 
         <textarea
