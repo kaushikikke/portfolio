@@ -41,6 +41,7 @@ function Contact() {
           type="text"
           name="name"
           placeholder="Your Name"
+          autoComplete="name"
           required
           className="w-full p-3 mb-3 bg-transparent border border-gray-500 rounded"
         />
@@ -49,6 +50,7 @@ function Contact() {
           type="email"
           name="email"
           placeholder="Your Email ID"
+          autoComplete="email"
           required
           className="w-full p-3 mb-3 bg-transparent border border-gray-500 rounded"
           />
